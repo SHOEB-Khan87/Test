@@ -1,5 +1,0 @@
-{{#user}
-Name: Shoeb Firoz Khan
-Skills: HTML, CSS, JS, React.js, Redux, Bootstrap, Material Ui
-Email: wolfwade885@gmail.com
-{{/user}}
